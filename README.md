@@ -165,6 +165,8 @@ report/Zomato_SQL_Project_Report.pdf
 
 If you’d like to connect or discuss the project, feel free to reach out:
 
+Name : Prince Yadav
+
 Email: princeyadav5018@gmail.com
 
 GitHub: https://github.com/princeydvv
