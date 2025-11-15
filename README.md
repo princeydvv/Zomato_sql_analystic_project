@@ -4,7 +4,7 @@
 This project analyzes Zomato-style food delivery data using SQL to uncover insights about restaurant performance, customer behavior, cuisine popularity, and order trends.
 It includes a complete database design, ER diagram, sample dataset, analytical SQL queries, and a final insights report.
 
-📂 Repository Structure
+## 📂 Repository Structure
 ```
 zomato-sql-project/
 │
@@ -44,7 +44,7 @@ zomato-sql-project/
 └── README.md 
 ```
 
-🗄️ Database Schema
+## 🗄️ Database Schema
 
 The project uses a normalized relational database with 8 tables:
 
@@ -66,7 +66,7 @@ The project uses a normalized relational database with 8 tables:
 
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 * MySQL
 
@@ -82,7 +82,7 @@ The project uses a normalized relational database with 8 tables:
 
 
   
-🔍 Analysis Conducted
+## 🔍 Analysis Conducted
 
 This project answers key business questions such as:
 
@@ -117,7 +117,13 @@ queries/analysis_queries.sql
 
 ```
 
-📈 Key Insights
+## 📓 Notebook
+This project includes a Jupyter Notebook for demonstration:
+```
+[zomato_project_notebook.ipynb](zomato_project_notebook.ipynb)
+```
+
+## 📈 Key Insights
 
 * Evening and weekend orders dominate the platform.
 
@@ -133,7 +139,7 @@ queries/analysis_queries.sql
 
 
 
-📝 How to Run This Project
+## 📝 How to Run This Project
 
 1. Import the schema:
 
@@ -153,7 +159,7 @@ data/
 queries/analysis_queries.sql
 
 ```
-📄 Final Report
+## 📄 Final Report
 
 The final PDF report containing the ER diagram, schema explanation, SQL queries, output screenshots, and insights is available here:
 
@@ -161,7 +167,7 @@ The final PDF report containing the ER diagram, schema explanation, SQL queries,
 report/Zomato_SQL_Project_Report.pdf
 ```
 
-📬 Contact
+## 📬 Contact
 
 If you’d like to connect or discuss the project, feel free to reach out:
 
